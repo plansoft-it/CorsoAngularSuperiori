@@ -12,6 +12,15 @@
    ```Bash
    ng new gestioneClassi
    ```
-3) 
+
+3) Perchè la struttora del progetto è così suddivisaç
+   * cosa sono gli elementi presenti nella root del progetto
+   * per esempio karma, tslint, package.json, protractor e2e
+
+4) Lanciare il progetto con npm:
+   
+   ```Bash
+   npm start
+   ```
 
 
