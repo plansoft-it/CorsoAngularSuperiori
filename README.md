@@ -1,8 +1,8 @@
-# Master
+# Step0
 
-Configurazione ambiente
+ng new GestioneClassi
 
-[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step0)
+[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step1)
 
 ## Stay in touch
 
