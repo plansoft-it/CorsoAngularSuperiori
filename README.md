@@ -1,8 +1,8 @@
-# Step1
+# Step2
 
-installazione dipendenze + spiegazione
+creazione modello della classe
 
-[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step2)
+[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step3)
 
 ## Stay in touch
 
