@@ -1,8 +1,8 @@
-# Step2
+# Step3
 
-creazione modello della classe
+Creazione service della classe
 
-[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step3)
+[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step4)
 
 ## Stay in touch
 
