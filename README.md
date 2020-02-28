@@ -1,8 +1,8 @@
-# Step0
+# Step1
 
-ng new GestioneClassi
+installazione dipendenze + spiegazione
 
-[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step1)
+[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step2)
 
 ## Stay in touch
 
