@@ -1,1 +1,11 @@
-<p>class list works!</p>
+<mat-list-item *ngFor="let class of classes">
+    <mat-icon matListIcon>group</mat-icon>
+    <h3 matLine> {{class.section}} </h3>
+    <p matLine>
+        <span> {{class.year}} </span>
+        <span class="demo-2">{{class.year}} -- {{class.section}} </span>
+    </p>
+    <button mat-icon-button>
+        <mat-icon>arrow_right</mat-icon>
+    </button>
+</mat-list-item>

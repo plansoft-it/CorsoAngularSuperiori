@@ -15,14 +15,14 @@ export class ClassService {
   public getClass(id: number): Observable<Class> {
     return this.httpService.get<Class>(`${environment.SERVER_URL}/classes/${id}`).pipe(
       map(data => new Class().deserialize(data)),
-      catchError(() => throwError('User not found'))
+      catchError(() => throwError('Class not found'))
     );
   }
 
   public getClasses() {
     return this.httpService.get<Class[]>(`${environment.SERVER_URL}/classes`).pipe(
       map(classesData => classesData.map(classData => new Class().deserialize(classData))),
-      catchError(() => throwError('User not found'))
+      catchError(() => throwError('Classes not found'))
     );
   }
 }

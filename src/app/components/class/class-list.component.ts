@@ -14,9 +14,12 @@ export class ClassListComponent implements OnInit {
   constructor(private classService: ClassService) { }
 
   ngOnInit(): void {
+    console.log('init');
+    this.getClasses();
   }
 
   public getClasses(): void {
+    console.log('inizio');
     this.classService.getClasses().subscribe(ClassesModel => this.classes = ClassesModel);
   }
 }
