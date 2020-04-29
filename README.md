@@ -2,12 +2,14 @@
 
 Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular101`.
 
+[Vai allo step successivo :point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+
+[Torna indietro :point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md)
+
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
 
-[Vai allo step successivo 👉](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
-
-## Stay in touch
-
+<details><summary>Stay in touch</summary>
+NB: Ogni volta che vedete la freccia cliccatela
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
@@ -34,6 +36,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+</details>
 
 ## Authors
 
