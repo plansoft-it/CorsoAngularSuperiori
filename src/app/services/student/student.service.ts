@@ -20,7 +20,7 @@ export class StudentService {
   }
 
   public updateStudent(student: Student): Observable<Student> {
-    return this.httpService.put(`${environment.SERVER_URL}/students/${student.id}`, student).pipe(
+    return this.httpService.post(`${environment.SERVER_URL}/students`, student).pipe(
       map(data => new Student().deserialize(data)),
       catchError(() => throwError('Student not found'))
     );
