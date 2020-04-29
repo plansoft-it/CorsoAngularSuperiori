@@ -3,6 +3,7 @@
 Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular101`.
 
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
+
 [Vai allo step successivo 👉](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
 ## Stay in touch
