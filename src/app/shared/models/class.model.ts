@@ -9,9 +9,11 @@ export class Class {
     deserialize(input: any) {
         Object.assign(this, input);
         this.students = [];
-        input.students.forEach(student => {
-            this.students.push(new Student().deserialize(student));
-        });
+        if (input.students) {
+            input.students.forEach(student => {
+                this.students.push(new Student().deserialize(student));
+            });
+        }
         return this;
     }
 }
