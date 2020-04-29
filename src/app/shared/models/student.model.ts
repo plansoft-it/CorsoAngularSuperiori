@@ -5,4 +5,9 @@ export class Student {
     public sidiCode: string;
     public taxCode: string;
     public classId: number;
+
+    deserialize(input: any) {
+        Object.assign(this, input);
+        return this;
+    }
 }

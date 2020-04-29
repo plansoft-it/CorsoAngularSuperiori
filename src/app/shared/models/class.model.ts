@@ -5,4 +5,13 @@ export class Class {
     public year: number;
     public section: string;
     public students: Student[];
+
+    deserialize(input: any) {
+        Object.assign(this, input);
+        this.students = [];
+        input.students.forEach(student => {
+            this.students.push(new Student().deserialize(student));
+        });
+        return this;
+    }
 }
