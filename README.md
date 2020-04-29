@@ -1,12 +1,10 @@
 # Angular101
 
+[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+
 Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular101`.
 
-[Vai allo step successivo :point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
-
-[Torna indietro :point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md)
-
-[Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
+[Continua](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
 <details><summary>Stay in touch</summary>
 NB: Ogni volta che vedete la freccia cliccatela
