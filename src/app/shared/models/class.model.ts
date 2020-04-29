@@ -8,10 +8,7 @@ export class Class {
 
     deserialize(input: any) {
         Object.assign(this, input);
-        this.students = [];
-        input.students.forEach(student => {
-            this.students.push(new Student().deserialize(student));
-        });
+        this.students = input.students.map(student => new Student().deserialize(student));
         return this;
     }
 }
