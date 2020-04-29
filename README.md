@@ -6,8 +6,9 @@ Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular1
 
 [Continua](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
-<details><summary>Stay in touch</summary>
-NB: Ogni volta che vedete la freccia cliccatela
+<details><summary>Angular docs</summary>
+
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
