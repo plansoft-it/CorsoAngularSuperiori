@@ -1,6 +1,6 @@
 # Angular101
 
-Creazione controller e component per `class` e realizzazione UI per il listing delle classi.
+Creazione component per `class` e realizzazione UI per il listing delle classi.
 
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
 
