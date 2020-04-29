@@ -7,16 +7,21 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ClassComponent } from './components/class/class.component';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 import { MatListModule } from '@angular/material/list';
+import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { ClassListComponent } from './components/class/class-list.component';
 import { HttpClientModule } from '@angular/common/http';
+import { StudentComponent } from './components/student/student.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ClassComponent,
-    ClassListComponent
+    ClassListComponent,
+    StudentComponent
   ],
   imports: [
     BrowserModule,
@@ -25,7 +30,10 @@ import { HttpClientModule } from '@angular/common/http';
     MatToolbarModule,
     MatListModule,
     MatIconModule,
-    HttpClientModule
+    HttpClientModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatButtonModule
   ],
   providers: [HttpClientModule],
   bootstrap: [AppComponent]

@@ -1,0 +1,23 @@
+<div class="text-center mt-1">
+    <h1>
+        <mat-icon matLine>person</mat-icon>
+        <span matLine>{{ student.surname }} {{ student.name }}</span>
+    </h1>
+</div>
+<div>
+    <mat-form-field matLine appearance="fill">
+        <mat-label>Nome</mat-label>
+        <input matInput [(value)]="student.name">
+    </mat-form-field>
+    <mat-form-field matLine appearance="fill">
+        <mat-label>Cognome</mat-label>
+        <input matInput [(value)]="student.surname">
+    </mat-form-field>
+    <mat-form-field matLine appearance="fill">
+        <mat-label>Codice Fiscale</mat-label>
+        <input matInput [(value)]="student.taxCode">
+    </mat-form-field>
+    <button (click)="updateStudent()" mat-button mat-raised-button color="primary">
+        Update
+    </button>
+</div>

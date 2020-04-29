@@ -1,12 +1,11 @@
 # Angular101
 
-Creazione dei collegamenti tra le pagine
+- Creazione della pagina dettaglio studente.
+- Creazione form utente
 
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
 
-[Vai allo step precedente 👈](https://github.com/plansoft-it/Angular101/blob/step6/README.md)
-
-[Vai allo step successivo 👉](https://github.com/plansoft-it/Angular101/blob/step8/README.md)
+[Vai allo step precedente 👈](https://github.com/plansoft-it/Angular101/blob/step7/README.md)
 
 ## Stay in touch
 
