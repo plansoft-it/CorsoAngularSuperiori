@@ -1,1 +1,15 @@
-<p>class works!</p>
+<div class="text-center mt-1">
+    <h1>
+        <mat-icon matLine>group</mat-icon>
+        <span matLine>{{ class.year }} {{ class.section }}</span>
+    </h1>
+</div>
+<mat-list>
+    <mat-list-item *ngFor="let student of class.students">
+        <mat-icon matListIcon>person</mat-icon>
+        <h3 matLine> {{student.surname}} {{student.name}} </h3>
+        <span matButton>
+            <mat-icon>edit</mat-icon>
+        </span>
+    </mat-list-item>
+</mat-list>

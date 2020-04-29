@@ -14,6 +14,7 @@ export class ClassComponent implements OnInit {
   constructor(private classService: ClassService) { }
 
   ngOnInit(): void {
+    this.getClass(1);
   }
 
   public getClass(classId: number): void {

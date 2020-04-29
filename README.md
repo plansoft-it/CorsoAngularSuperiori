@@ -1,12 +1,12 @@
 # Angular101
 
-Creazione component per `class` e realizzazione UI per il listing delle classi.
+Realizzazione UI per la pagina dettaglio di una classe.
 
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
 
-[Vai allo step precedente 👈](https://github.com/plansoft-it/Angular101/blob/step3/README.md)
+[Vai allo step precedente 👈](https://github.com/plansoft-it/Angular101/blob/step4/README.md)
 
-[Vai allo step successivo 👉](https://github.com/plansoft-it/Angular101/blob/step5/README.md)
+[Vai allo step successivo 👉](https://github.com/plansoft-it/Angular101/blob/step6/README.md)
 
 ## Stay in touch
 
