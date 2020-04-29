@@ -1,6 +1,6 @@
 # Angular101
 
-Creazione service per il model `Class`.
+Creazione service per il model `Class`, aggiunta variabili d'ambiente e modifiche ai modelli creati in precedenza.
 
 [Torna alla homepage](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/)
 
