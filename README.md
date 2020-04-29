@@ -38,4 +38,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 [Iacopo Ciao](http://github.com/KernelPanic92), [Miki Lombardi](http://github.com/thejoin95), [Gabriele Puliti](http://github.com/wabri)
 
-Sponsored by [Plansoft](www.plansoft.it)
+Sponsored by [Plansoft](https://www.plansoft.it)
