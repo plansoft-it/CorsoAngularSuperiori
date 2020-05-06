@@ -2,10 +2,11 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step6/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step8/README.md)
 
-Creazione dei collegamenti tra le pagine
+## Navigazione tra le varie pagine
 
+Creazione dei collegamenti tra le pagine per una effettiva navigazione del progetto.
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step8/README.md)
+[Continua: finalizza il progetto](https://github.com/plansoft-it/Angular101/blob/step8/README.md)
 
 <details><summary>Angular docs</summary>
 ## Stay in touch
