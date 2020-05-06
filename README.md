@@ -2,14 +2,14 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step3/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step5/README.md)
 
+## Lista classi
+
 Creazione component per `class` e realizzazione UI per il listing delle classi.
 
-
-[Continua](https://github.com/plansoft-it/Angular101/blob/step5/README.md)
+[Continua: Dettaglio classe](https://github.com/plansoft-it/Angular101/blob/step5/README.md)
 
 <details><summary>Angular docs</summary>
-## Stay in touch
-
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
