@@ -9,6 +9,7 @@ Creazione component per `class` e realizzazione UI per il listing delle classi.
 [Continua: Dettaglio classe](https://github.com/plansoft-it/Angular101/blob/step5/README.md)
 
 <details><summary>Angular docs</summary>
+  
 ## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
