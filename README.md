@@ -2,14 +2,15 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step1/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step3/README.md)
 
+## Creazione modello
+
 Creazione modello per l'entità Classe tramite i comandi di `angular cli`.
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step3/README.md)
+[Continua: Creazione service](https://github.com/plansoft-it/Angular101/blob/step3/README.md)
 
 <details><summary>Angular docs</summary>
-## Stay in touch
-
-
+## Angular CLI
+  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
