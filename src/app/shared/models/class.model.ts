@@ -10,9 +10,7 @@ export class Class {
         Object.assign(this, input);
         this.students = [];
         if (input.students) {
-            input.students.forEach(student => {
-                this.students.push(new Student().deserialize(student));
-            });
+            this.students = input.students.map(student => new Student().deserialize(student));
         }
         return this;
     }
