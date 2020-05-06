@@ -1,6 +1,8 @@
-# Configurazione ambiente
+# Angular101
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step0/README.md)
+
+# Configurazioine ambiente
 
 Per poter sviluppare con Angular sono necessari alcuni strumenti:
 
