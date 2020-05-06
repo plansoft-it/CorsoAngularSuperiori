@@ -2,12 +2,14 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step2/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step4/README.md)
 
+## Creazione service
+
 Creazione service per il model `Class`, aggiunta variabili d'ambiente e modifiche ai modelli creati in precedenza.
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step4/README.md)
+[Continua: Lista classi](https://github.com/plansoft-it/Angular101/blob/step4/README.md)
 
 <details><summary>Angular docs</summary>
-## Stay in touch
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
