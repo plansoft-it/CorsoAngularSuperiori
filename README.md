@@ -2,13 +2,15 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step4/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step6/README.md)
 
+## Dettaglio classe
+
 Realizzazione UI per la pagina dettaglio di una classe.
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step6/README.md)
+[Continua: Routing](https://github.com/plansoft-it/Angular101/blob/step6/README.md)
 
 <details><summary>Angular docs</summary>
 
-## Stay in touch
+## Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
