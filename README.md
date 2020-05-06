@@ -1,12 +1,16 @@
 # Angular101
 
-[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step2/README.md)
 
-Installazione dipendenze progetto Angular tramite l'utilizzo di `npm` e `angular cli`.
+## Installazione dipendenze 
 
-Le dipendenze da installare sono segnalate nella issue #3.
+Installazione dipendenze progetto Angular tramite l'utilizzo di `npm` e `angular cli`:
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step2/README.md)
+```shell
+ng add @angular/material
+```
+
+[Continua: ](https://github.com/plansoft-it/Angular101/blob/step2/README.md)
 
 <details><summary>Angular docs</summary>
 
