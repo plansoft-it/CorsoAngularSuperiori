@@ -10,7 +10,7 @@ Installazione dipendenze progetto Angular tramite l'utilizzo di `npm` e `angular
 ng add @angular/material
 ```
 
-[Continua: ](https://github.com/plansoft-it/Angular101/blob/step2/README.md)
+[Continua: Creazione modello](https://github.com/plansoft-it/Angular101/blob/step2/README.md)
 
 <details><summary>Angular docs</summary>
 
