@@ -1,10 +1,14 @@
-# Master
+# Configurazione ambiente
 
-Configurazione ambiente
+[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step0/README.md)
 
-[Vai allo step successivo](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step0)
+Per poter sviluppare con Angular sono necessari alcuni strumenti:
 
-## Stay in touch
+- [NodeJs](https://nodejs.org) con il suo gestore di pacchetti npm
+- Per creare progetti, generare codice ed eseguire una varietà di attività di sviluppo in corso è necessario il [Client angular](https://angular.io/guide/setup-local#step-1-install-the-angular-cli) 
+- Un editor di testo a piacere, fortemente consigliato [visual studio code](https://code.visualstudio.com/) con il plugin [Angular essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials).
+
+[Continua](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/tree/step0)
 
 ## Authors
 
