@@ -6,7 +6,7 @@
 
 Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular101`.
 
-[Continua: installazione dipendenze](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+[Continua: Installazione dipendenze](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
 <details><summary>Angular docs</summary>
 
