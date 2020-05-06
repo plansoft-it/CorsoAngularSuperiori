@@ -2,9 +2,11 @@
 
 [:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
+## Nuovo progetto
+
 Inizializzazione progetto Angular tramite l'utilizzo della CLI: `ng new Angular101`.
 
-[Continua](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+[Continua: installazione dipendenze](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
 <details><summary>Angular docs</summary>
 
