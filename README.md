@@ -1,6 +1,6 @@
 # Angular101
 
-[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/step0/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
+[:house:](https://github.com/plansoft-it/CorsoAngularSuperioriGestione/) [:point_left:](https://github.com/plansoft-it/Angular101/blob/master/README.md) [:point_right:](https://github.com/plansoft-it/Angular101/blob/step1/README.md)
 
 ## Nuovo progetto
 
